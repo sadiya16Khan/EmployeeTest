@@ -1,0 +1,53 @@
+.mainDiv {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid blue;
+  background-color: bisque;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.UserError {
+  color: red;
+  margin-top: -10px;
+}
+
+.PaswrdError {
+  color: red;
+  margin-top: -10px;
+}
+.logout {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  height: 40px;
+  width: 100px;
+  background-color: navy;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 10px !important;
+}
+.addemp {
+  position: absolute;
+  left: 850px;
+  top: 0px;
+  height: 40px;
+  width: 150px !important;
+  background-color: navy;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 10px !important;
+  margin-right: 10px;
+}
+.bold {
+  font-size: 30px;
+  margin-left: 150px;
+}
